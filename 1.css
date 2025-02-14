@@ -1,10 +1,31 @@
-
+body{
+  background-color: rgb(234, 221, 224);
+  border-style:  20px solid black;
+}
 h1 {
   color: green;
+  font-size: 50px;
 }
 
 p{
   text-align: center;
   color: red;
 
+}
+
+a{
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  
+}
+a :hover{
+  color:aqua;
+
+}
+img{
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  
 }
